@@ -1,4 +1,4 @@
-In this project I will implement a modified hangman game machine with Logisim. For the game, the minimum requirements are as follows:
+In this project I implemented a modified hangman game machine with Logisim. For the game, the minimum requirements are as follows:
 
 1. The word is taken as 64-bit input.
 2. Each 8 bit refers to the ascii code of a character. Therefore, the word is 8 characters at most. For instance “hello” is represented as:
